@@ -1,0 +1,4 @@
+streamlit
+termcolor
+lmdeploy
+torch-cpu
